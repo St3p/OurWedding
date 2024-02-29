@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://www.derek-step.blog/invitation/nuevo-vallarta/</loc>
+    <loc>https://www.derek-step.blog/information/nuevo-vallarta/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.derek-step.blog/information/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -51,6 +57,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.derek-step.blog/tags/rsvp/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.derek-step.blog/invitation/rsvp/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.derek-step.blog/invitation/save-the-date/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -75,7 +93,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.derek-step.blog/invitation/tips-mexico/</loc>
+    <loc>https://www.derek-step.blog/information/tips-mexico/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

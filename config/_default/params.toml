@@ -12,13 +12,13 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["invitation"]
+mainSections = ["invitation", "information"]
 # robots = ""
 
 disableImageOptimization = false
 disableTextInHeader = false
 
-defaultBackgroundImage = "/img/background.png"
+defaultBackgroundImage = "/img/1.png"
 defaultFeaturedImage = "/img/default.png"
 
 highlightCurrentMenuArea = true
@@ -37,7 +37,7 @@ smartTOCHideUnfocusedChildren = false
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "/img/background.png" # used in: hero, and card
+  homepageImage = "/img/1.png" # used in: hero, and card
   showRecent = true
   showRecentItems = 3
   showMoreLink = true
@@ -72,7 +72,7 @@ smartTOCHideUnfocusedChildren = false
   showTaxonomies = true
   showAuthorsBadges = true
   showWordCount = false
-  sharingLinks = [ "linkedin", "twitter", "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email"]
+  #sharingLinks = [ "linkedin", "twitter", "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email"]
   showZenMode = true
 
 [list]
@@ -115,27 +115,27 @@ smartTOCHideUnfocusedChildren = false
   cardView = true
   cardViewScreenWidth = false
 
-[firebase]
-  apiKey = "AIzaSyB5tqlqDky77Vb4Tc4apiHV4hRZI18KGiY"
-  authDomain = "blowfish-21fff.firebaseapp.com"
-  projectId = "blowfish-21fff"
-  storageBucket = "blowfish-21fff.appspot.com"
-  messagingSenderId = "60108104191"
-  appId = "1:60108104191:web:039842ebe1370698b487ca"
-  measurementId = "G-PEDMYR1V0K"
+#[firebase]
+#  apiKey = "AIzaSyB5tqlqDky77Vb4Tc4apiHV4hRZI18KGiY"
+#  authDomain = "blowfish-21fff.firebaseapp.com"
+#  projectId = "blowfish-21fff"
+#  storageBucket = "blowfish-21fff.appspot.com"
+#  messagingSenderId = "60108104191"
+#  appId = "1:60108104191:web:039842ebe1370698b487ca"
+#  measurementId = "G-PEDMYR1V0K"
 
-[fathomAnalytics]
+#[fathomAnalytics]
   # site = "ABC12345"
   # domain = "llama.yoursite.com"
 
-[buymeacoffee]
-  identifier = "nunocoracao"
-  globalWidget = true
-  globalWidgetMessage = ""
-  globalWidgetColor = "#FFDD00"
-  globalWidgetPosition = "Right"
+#[buymeacoffee]
+#  identifier = "nunocoracao"
+#  globalWidget = true
+#  globalWidgetMessage = ""
+#  globalWidgetColor = "#FFDD00"
+#  globalWidgetPosition = "Right"
 
-[verification]
+#[verification]
   # google = ""
   # bing = ""
   # pinterest = ""
