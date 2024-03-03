@@ -18,7 +18,7 @@ mainSections = ["invitation", "information"]
 disableImageOptimization = false
 disableTextInHeader = false
 
-defaultBackgroundImage = "/img/1.png"
+defaultBackgroundImage = "/img/background.png"
 defaultFeaturedImage = "/img/default.png"
 
 highlightCurrentMenuArea = true
@@ -37,7 +37,7 @@ smartTOCHideUnfocusedChildren = false
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "/img/1.png" # used in: hero, and card
+  homepageImage = "/img/background.png" # used in: hero, and card
   showRecent = true
   showRecentItems = 3
   showMoreLink = true
