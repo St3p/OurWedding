@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://www.derek-step.blog/information/nuevo-vallarta/</loc>
+    <loc>https://www.derek-step.blog/tags/golf/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.derek-step.blog/hide/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -27,6 +33,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.derek-step.blog/tags/marina/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.derek-step.blog/tags/markets/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.derek-step.blog/tags/mexico/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -45,6 +63,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.derek-step.blog/tags/nightlife/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.derek-step.blog/tags/nuevo-vallarta/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -52,6 +76,12 @@
   </url>
   <url>
     <loc>https://www.derek-step.blog/series/nuevo-vallarta/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.derek-step.blog/information/nuevo-vallarta/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -111,13 +141,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.derek-step.blog/invitation/venue-vidanta/</loc>
+    <loc>https://www.derek-step.blog/hide/venue-vidanta/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.derek-step.blog/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.derek-step.blog/tags/wildlife/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
