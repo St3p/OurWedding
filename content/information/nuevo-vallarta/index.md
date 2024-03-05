@@ -1,17 +1,13 @@
 ---
-title: "Nuevo Vallarta"
+title: "Nuevo Vallarta Unveiled"
 date: 2024-02-28
 draft: false
 description: "Learn about Nuevo Vallarta and the surrounding areas."
-tags: ["Nuevo Vallarta", "new", "Marina", "golf", "wildlife", "Markets", "NightLife", ]
-series: ["Nuevo Vallarta"]
-series_order: 1
+tags: ["Nuevo Vallarta", "Marina", "golf", "wildlife", "Markets", "NightLife", ]
 ---
+## A Traveler's Guide to Paradise: Learn about Nuevo Vallarta and the surrounding areas.
 
-Nuevo Vallarta is a vacation destination located along the Pacific coast of Mexico,
-situated just north of Puerto Vallarta. Nestled on Banderas Bay, it is renowned for its golf courses,
-marina, and expansive sandy beach. A brief distance away from the shoreline, the ecologically diverse
-Marieta Islands host a variety of wildlife, such as dolphins, turtles, and humpback whales.
+Nuevo Vallarta is a vacation destination located along the Pacific coast of Mexico, situated just north of Puerto Vallarta. Nestled on Banderas Bay, it is renowned for its golf courses, marina, and expansive sandy beach. A brief distance away from the shoreline, the ecologically diverse Marieta Islands host a variety of wildlife, such as dolphins, turtles, and humpback whales.
 
 Here are some spots you may enjoy at Nuevo Vallarta:
 

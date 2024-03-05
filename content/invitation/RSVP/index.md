@@ -3,9 +3,16 @@ title: "RSVP"
 date: 2024-02-28
 draft: false
 description: "Reservation link"
-tags: ["Invitation", "RSVP"]
-series_order: 1
+tags: ["Invitation", "RSVP", "Music"]
 ---
+
+## Que Onda RSVP: Join the Fiesta in Nuevo Vallarta!
+
+We hope this message finds you well! As our wedding day in Nuevo Vallarta approaches, we're eager to know if you'll be able to join us for this special celebration.
+
+Your presence means a lot to us, and we've made the RSVP process quick and easy. Kindly let us know if you'll be part of our joyous day. We're also adding a personal touch to the celebration – feel free to request a song so you can shake that ass.
+
+Warm regards,
 
   <form action="https://getform.io/f/nbvkglya" method="POST">
   <label for="name">Full Name:</label>

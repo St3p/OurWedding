@@ -9,12 +9,22 @@
     <copyright>© 2024 Derek &amp; Stephanie&#39;s Wedding</copyright>
     <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.derek-step.blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Nuevo Vallarta</title>
+      <title>A Gringo&#39;s Guide to Embracing Mexico</title>
+      <link>https://www.derek-step.blog/information/tips-mexico/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.derek-step.blog/information/tips-mexico/</guid>
+      <description>Cultural Insights and Tips for a Vibrant Nuevo Vallarta Experience.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.derek-step.blog/information/tips-mexico/featured.png" />
+    </item>
+    
+    <item>
+      <title>Nuevo Vallarta Unveiled</title>
       <link>https://www.derek-step.blog/information/nuevo-vallarta/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>https://www.derek-step.blog/information/nuevo-vallarta/</guid>
-      <description>Nuevo Vallarta is a vacation destination located along the Pacific coast of Mexico, situated just north of Puerto Vallarta.</description>
+      <description>A Traveler&amp;rsquo;s Guide to Paradise: Learn about Nuevo Vallarta and the surrounding areas.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.derek-step.blog/information/nuevo-vallarta/featured.png" />
     </item>
     
@@ -24,7 +34,7 @@
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>https://www.derek-step.blog/invitation/rsvp/</guid>
-      <description>Full Name:Email Address: Will you attend?</description>
+      <description>Que Onda RSVP: Join the Fiesta in Nuevo Vallarta!</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.derek-step.blog/invitation/rsvp/featured.png" />
     </item>
     
@@ -34,28 +44,18 @@
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>https://www.derek-step.blog/invitation/save-the-date/</guid>
-      <description></description>
+      <description>A Tropical Celebration Awaits in Nuevo Vallarta!</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.derek-step.blog/invitation/save-the-date/featured.png" />
     </item>
     
     <item>
-      <title>Tips</title>
-      <link>https://www.derek-step.blog/information/tips-mexico/</link>
+      <title>Venue Details for Our Special Day</title>
+      <link>https://www.derek-step.blog/invitation/venue-vidanta/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://www.derek-step.blog/information/tips-mexico/</guid>
-      <description>More Info to come</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.derek-step.blog/information/tips-mexico/featured.png" />
-    </item>
-    
-    <item>
-      <title>Venue details</title>
-      <link>https://www.derek-step.blog/hide/venue-vidanta/</link>
-      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.derek-step.blog/hide/venue-vidanta/</guid>
-      <description>More Info to come</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.derek-step.blog/hide/venue-vidanta/featured.png" />
+      <guid>https://www.derek-step.blog/invitation/venue-vidanta/</guid>
+      <description>Love Under the Mexican Sun.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.derek-step.blog/invitation/venue-vidanta/featured.png" />
     </item>
     
   </channel>
