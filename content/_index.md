@@ -19,5 +19,4 @@ As we count down the days until we say “I do,” think of this guide as your p
 
 Cheers to the upcoming festivities and the wonderful memories we'll create together!
 
-Warm regards,
 ---

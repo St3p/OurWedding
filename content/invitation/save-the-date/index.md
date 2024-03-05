@@ -5,9 +5,8 @@ draft: false
 description: "Save the date wedding invite"
 tags: ["Invitation", "Save the Date"]
 ---
-<br/>
 
-## A Tropical Celebration Awaits in Nuevo Vallarta!
+<h2>A Tropical Celebration Awaits in Nuevo Vallarta!</h2>
 
 Block your calendars!
 

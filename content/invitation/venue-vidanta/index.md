@@ -6,7 +6,7 @@ description: "Venue details and what to expect."
 tags: ["venue", "Dress code", "ceremony", "Dress code", "Weather"]
 ---
 
-## Love Under the Mexican Sun.
+## Love Under the Mexican Sun
 
 Welcome to the heart of our celebration! As we prepare to embark on a beautiful journey of love
 and commitment in Nuevo Vallarta, we want to provide you with essential details about the venue,

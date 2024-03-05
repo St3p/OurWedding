@@ -14,54 +14,45 @@ As a traveler, embracing the local culture can transform your experience from or
 
 ### Warm Greetings:
 
-Mexicans are known for their warmth and hospitality. Don't be surprised if locals greet you with
-a friendly "Hola", a handshake or a hug.
+Mexicans are known for their warmth and hospitality. Don't be surprised if locals greet you with a friendly "Hola", a handshake or a hug.
 
 ### Respect for Elders:
 
-Respect for elders is deeply ingrained in Mexican culture. Use polite terms like "Señor" or
-"Señora" when addressing someone older.
+Respect for elders is deeply ingrained in Mexican culture. Use polite terms like "Señor" or "Señora" when addressing someone older.
 
 ## Navigating Local Customs:
 
 ### Time Flexibility:
 
-Punctuality is important, but Mexicans generally have a more relaxed approach to time. Expect
-events to start a bit later than scheduled.
+Punctuality is important, but Mexicans generally have a more relaxed approach to time. Expect events to start a bit later than scheduled.
 
 ### Politeness and Formality:
 
-Mexicans appreciate politeness and formality. Using "Por favor" (please) and "Gracias" (thank
-you) goes a long way in interactions.
+Mexicans appreciate politeness and formality. Using "Por favor" (please) and "Gracias" (thankyou) goes a long way in interactions.
 
 ### Personal Space:
 
-Mexicans are comfortable with close proximity during conversations. Don't be surprised if
-people stand closer than you might be accustomed to.
+Mexicans are comfortable with close proximity during conversations. Don't be surprised if people stand closer than you might be accustomed to.
 
 ## Bathroom Etiquette:
 
 ### Restrooms - Men and Ladies:
 
-When using restrooms, you'll often find them labeled "M" for Mujeres (women) and "C" or "H" for
-Caballeros or Hombres (men). Respect these signs to ensure a smooth and culturally sensitive
-experience.
+When using restrooms, you'll often find them labeled "M" for Mujeres (women) and "C" or "H" for Caballeros or Hombres (men). Respect these signs to ensure a smooth and culturally sensitive experience.
 
 ### Cultural Considerations:
 
-In Mexico, it is customary for women to carry small tissue packs or hand sanitizers, as restroom
-amenities can vary. Dispose of paper products in the waste bin provided, not in the toilet.
-Things to Avoid and Be Wary Of:
+In Mexico, it is customary for women to carry small tissue packs or hand sanitizers, as restroom amenities can vary. Dispose of paper products in the waste bin provided, not in the toilet.
+
+## Things to Avoid and Be Wary Of:
 
 ### Water Safety:
 
-While Nuevo Vallarta has potable water, it's advisable for visitors to drink bottled water to
-avoid any potential discomfort.
+While Nuevo Vallarta has potable water, it's advisable for visitors to drink bottled water to avoid any potential discomfort.
 
 ### Currency Exchange:
 
-Be cautious when exchanging currency. Opt for official exchange offices to ensure fair rates and
-avoid scams.
+Be cautious when exchanging currency. Opt for official exchange offices to ensure fair rates and avoid scams.
 
 ### Street Food Hygiene:
 

@@ -7,10 +7,11 @@ cascade:
   showAuthor: false
   invertPagination: true
 ---
-Hola amigos y familia,
 
-Explore the Information Folder for practical details about Nuevo Vallarta. Find tips for a smooth stay in Mexico and
-discover exciting activities in Nuevo Vallarta. We want your experience to be seamless, ensuring you make the most of your
-time here. Let’s make these moments memorable!
+Hey amigos and fam,
+
+Check out the info corner for all the lowdown on Nuevo Vallarta. Grab some tips for kicking it smooth in Mexico and uncover the coolest stuff to do in Nuevo Vallarta. We're all about making your time here as easy as Sunday morning, so you can soak up every bit of the good stuff.
+
+Let's turn these moments into memories that even our future selves will be jealous of!
 
 ---

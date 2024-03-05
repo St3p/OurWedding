@@ -6,7 +6,7 @@ description: "Reservation link"
 tags: ["Invitation", "RSVP", "Music"]
 ---
 
-## Que Onda RSVP: Join the Fiesta in Nuevo Vallarta!
+<h2>Que Onda RSVP: Join the Fiesta in Nuevo Vallarta!</h2>
 
 We hope this message finds you well! As our wedding day in Nuevo Vallarta approaches, we're eager to know if you'll be able to join us for this special celebration.
 
