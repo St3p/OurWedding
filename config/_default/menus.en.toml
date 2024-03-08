@@ -20,6 +20,17 @@
   weight = 10
 
 [[main]]
+  name = "RSVP"
+  pageRef = "RSVP"
+  weight = 10
+
+  [[main]]
+    name = "Travel"
+    pageRef = "Travel"
+    weight = 10
+
+
+[[main]]
   name = "Tags"
   pageRef = "tags"
   weight = 30
