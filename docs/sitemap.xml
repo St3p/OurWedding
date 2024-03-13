@@ -15,6 +15,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.derek-step.blog/invitation/registry/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.derek-step.blog/tags/currency/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -28,6 +34,12 @@
   </url>
   <url>
     <loc>https://www.derek-step.blog/tags/exchange/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.derek-step.blog/tags/gifts/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -100,6 +112,12 @@
   </url>
   <url>
     <loc>https://www.derek-step.blog/information/nuevo-vallarta/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.derek-step.blog/tags/registry/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
