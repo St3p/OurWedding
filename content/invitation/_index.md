@@ -8,7 +8,7 @@ cascade:
   invertPagination: true
 ---
 
-Hey amigos and fam,
+<h2>Hey amigos and fam,</h2>
 
 Check out all that Nuevo Vallarta has to offer, without feeling like a like a Tourist. Grab some tips for kicking it smooth in Mexico and uncover the coolest stuff to do in Nuevo Vallarta. We're all about making your time here as easy as possible, so you can soak up every bit of the good stuff.
 

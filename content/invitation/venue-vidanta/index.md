@@ -5,6 +5,8 @@ cascade:
   showDate: false
   showAuthor: false
   invertPagination: true
+  series: ["Invitation"]
+  series_order: 2
 ---
 
 ## Love Under the Mexican Sun

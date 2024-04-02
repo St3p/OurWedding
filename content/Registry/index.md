@@ -5,7 +5,7 @@ draft: false
 description: "Registry."
 tags: ["registry", "gifts"]
 ---
-Hola!!
+<h2>Hola!!</h2>
 
 We're getting married, and we're excited to share our wedding registry with you! No pressure, but if you're into making our newlywed life a bit sweeter, [Check it out](https://www.amazon.ca/wedding/share/derek-step) .
 
