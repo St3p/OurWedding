@@ -20,12 +20,12 @@
     
     <item>
       <title>Check Out Our Wedding Wish List!</title>
-      <link>https://www.derek-step.blog/invitation/registry/</link>
+      <link>https://www.derek-step.blog/registry/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://www.derek-step.blog/invitation/registry/</guid>
+      <guid>https://www.derek-step.blog/registry/</guid>
       <description>Hola!!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.derek-step.blog/invitation/registry/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.derek-step.blog/registry/featured.png" />
     </item>
     
     <item>
@@ -49,16 +49,6 @@
     </item>
     
     <item>
-      <title>Venue Details for Our Special Day</title>
-      <link>https://www.derek-step.blog/invitation/venue-vidanta/</link>
-      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.derek-step.blog/invitation/venue-vidanta/</guid>
-      <description>Love Under the Mexican Sun #Welcome to the heart of our celebration!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.derek-step.blog/invitation/venue-vidanta/featured.png" />
-    </item>
-    
-    <item>
       <title>RSVP</title>
       <link>https://www.derek-step.blog/rsvp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -66,6 +56,16 @@
       <guid>https://www.derek-step.blog/rsvp/</guid>
       <description>Que Onda RSVP: Join the Fiesta in Nuevo Vallarta!</description>
       
+    </item>
+    
+    <item>
+      <title>Venue Details for Our Special Day</title>
+      <link>https://www.derek-step.blog/invitation/venue-vidanta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.derek-step.blog/invitation/venue-vidanta/</guid>
+      <description>Love Under the Mexican Sun #Welcome to the heart of our celebration!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.derek-step.blog/invitation/venue-vidanta/featured.png" />
     </item>
     
   </channel>

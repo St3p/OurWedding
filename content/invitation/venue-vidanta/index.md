@@ -1,9 +1,10 @@
 ---
 title: "Venue Details for Our Special Day"
-date: 2024-02-28
-draft: false
 description: "Venue details and what to expect."
-tags: ["venue", "Dress code", "ceremony", "Dress code", "Weather"]
+cascade:
+  showDate: false
+  showAuthor: false
+  invertPagination: true
 ---
 
 ## Love Under the Mexican Sun

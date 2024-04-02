@@ -4,10 +4,12 @@ date: 2024-02-28
 draft: false
 description: "Learn about Nuevo Vallarta and the surrounding areas."
 tags: ["Nuevo Vallarta", "Marina", "golf", "wildlife", "Markets", "NightLife", ]
+series: ["Information"]
+series_order: 2
 ---
 ## A Traveler's Guide to Paradise: Learn about Nuevo Vallarta and the surrounding areas.
 
-Nuevo Vallarta is a vacation destination located along the Pacific coast of Mexico, situated just north of Puerto Vallarta. Nestled on Banderas Bay, it is renowned for its golf courses, marina, and expansive sandy beach. A brief distance away from the shoreline, the ecologically diverse Marieta Islands host a variety of wildlife, such as dolphins, turtles, and humpback whales.
+Nuevo Vallarta is located along the Pacific coast of Mexico, situated just north of Puerto Vallarta. Nestled on Banderas Bay, it is renowned for its golf courses, marina, and expansive sandy beach. A brief distance away from the shoreline, the ecologically diverse Marieta Islands host a variety of wildlife, such as dolphins, turtles, and humpback whales.
 
 Here are some spots you may enjoy at Nuevo Vallarta:
 
@@ -17,9 +19,9 @@ Here are some spots you may enjoy at Nuevo Vallarta:
     alt="Marina de Nuevo Vallarta"
     >}}
 
-the Marina of Nuevo Vallarta is close to the hotel and it is a great place for a walk, you may even get lucky and see a crocodile around the boats.
+The Marina of Nuevo Vallarta is close to the hotel and it is a great place for a walk, you may even get lucky and see a crocodile around the boats.
 
-Don't forget to go to Vallarta adventures, where you can take photos with exotic birds and enjoy a dolphins and sea lions shows for free, they have other packages and tours available.
+Don't forget to go to Vallarta adventures, where you can take photos with exotic birds, enjoy dolphins and sea lions shows for free, they also have other packages and tours available.
 
 {{< figure
     src="Guacamayas.png"
@@ -35,9 +37,9 @@ Don't forget to go to Vallarta adventures, where you can take photos with exotic
     alt="turtles"
     >}}
 
-All over the coast of Nuevo Vallarta you may be lucky to see the newborn turtles taking of to the ocean. Usually the little ones start hatching through October to December every morning.
+All over the coast of Nuevo Vallarta you may be lucky to see the newborn turtles crawling off to the ocean. Usually the little ones start hatching through October to December every morning.
 
-If you are lucky enough to see them please don't touch them with your hands, cup them up by taking the sand around them. And they are very cute.
+If you are lucky enough to see them please don't touch them with your hands, cup them up by taking the sand around them.
 
 ### Coatis
 
@@ -46,7 +48,7 @@ If you are lucky enough to see them please don't touch them with your hands, cup
     alt="Coatis"
     >}}
 
-You may be able to find this little guys all over the place, they are usually feed by the hotels and they are some spots where you can easily find them at noon hours. Just don't forget to bring them some bread.
+You may be able to find this little guys all over the place, they are usually fed by the hotels and there are some spots where you can easily find them at noon. Just don't forget to bring them some bread.
 
 {{< figure
     src="CoatiMap.png"
@@ -89,7 +91,7 @@ You will find a lot of fun on the nightclubs and bars in Nuevo Vallarta, must of
 
 ### Puerto Vallarta
 
-If you prefer a crazy party with a lot going on around the corner you will prefer to adventure to Puerto Vallarta. where you will be able to find all type of night clubs and bars, some necxt to he beach and other fancy ones that shows the best that the city can offer.
+If you prefer a crazy party with a lot going on around the corner you will prefer to adventure to Puerto Vallarta. where you will be able to find all type of night clubs and bars, some next to he beach and other fancy ones that show the best that the city can offer.
 
 {{< figure
     src="NightclubPuertoVallarta.png"

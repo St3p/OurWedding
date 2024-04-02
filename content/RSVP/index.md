@@ -12,7 +12,7 @@ cascade:
 
 We hope this message finds you well! As our wedding day in Nuevo Vallarta approaches, we're eager to know if you'll be able to join us for this special celebration.
 
-Your presence means a lot to us, and we've made the RSVP process quick and easy. Kindly let us know if you'll be part of our joyous day. We're also adding a personal touch to the celebration – feel free to request a song so you can shake that ass.
+Your presence means a lot to us, and we've made the RSVP process quick and easy. Kindly let us know if you'll be part of our joyous day. We're also adding a personal touch to the celebration – feel free to request a song so you can ***shake that ass***.
 
 Warm regards,
 

@@ -9,25 +9,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.derek-step.blog/tags/ceremony/</loc>
-    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.derek-step.blog/invitation/registry/</loc>
+    <loc>https://www.derek-step.blog/registry/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.derek-step.blog/tags/currency/</loc>
-    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.derek-step.blog/tags/dress-code/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -51,6 +39,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.derek-step.blog/series/information/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.derek-step.blog/information/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -58,6 +52,12 @@
   </url>
   <url>
     <loc>https://www.derek-step.blog/tags/invitation/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.derek-step.blog/series/invitation/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -135,6 +135,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.derek-step.blog/series/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.derek-step.blog/tags/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -142,24 +148,6 @@
   </url>
   <url>
     <loc>https://www.derek-step.blog/tags/tips/</loc>
-    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.derek-step.blog/tags/venue/</loc>
-    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.derek-step.blog/invitation/venue-vidanta/</loc>
-    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.derek-step.blog/tags/weather/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -192,12 +180,12 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.derek-step.blog/series/</loc>
+    <loc>https://www.derek-step.blog/travel/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.derek-step.blog/travel/</loc>
+    <loc>https://www.derek-step.blog/invitation/venue-vidanta/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

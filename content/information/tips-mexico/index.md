@@ -4,11 +4,13 @@ date: 2024-02-28
 draft: false
 description: "Learn about Nayarit"
 tags: ["Mexico", "Nayarit", "Tips", "Exchange", "Currency", "Local Traditions", "Markets"]
+series: ["Information"]
+series_order: 1
 ---
 
 ## Cultural Insights and Tips for a Vibrant Nuevo Vallarta Experience.
 
-As a traveler, embracing the local culture can transform your experience from ordinary to extraordinary. In this guide, we'll provide valuable insights and cultural tips to ensure a memorable and respectful visit to Mexico.
+As a tourist, embracing the local culture can transform your experience from ordinary to extraordinary. In this guide, we'll provide valuable insights and cultural tips to ensure a memorable and respectful visit to Mexico.
 
 ## Understanding the Local Culture:
 
@@ -70,4 +72,6 @@ Bargaining is common in artisan markets, but do so respectfully. Appreciate the 
 
 Nuevo Vallarta and its surroundings offer a delightful blend of natural beauty and cultural richness. By embracing local customs, avoiding potential pitfalls, and respecting the traditions of this vibrant region, you're sure to have a rewarding and unforgettable experience. Remember, the key to a successful visit is to approach it with an open heart and a genuine appreciation for the beauty that Mexico has to offer.
 
-So pack your bags, explore the beaches, savor the cuisine, and immerse yourself in the rich tapestry of Mexico's culture! ¡Bienvenidos a México! (Welcome to Mexico!)
+So pack your bags, explore the beaches, savor the cuisine, and immerse yourself in the rich tapestry of Mexico's culture!
+
+<h2>¡Bienvenidos a México! (Welcome to Mexico!)<h2/>

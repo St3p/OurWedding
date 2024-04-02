@@ -24,6 +24,12 @@
   pageRef = "RSVP"
   weight = 10
 
+[[main]]
+  name = "Registry"
+  pageRef= "Registry"
+  parent = "RSVP"
+  weight = 20
+
   [[main]]
     name = "Travel"
     pageRef = "Travel"
