@@ -27,8 +27,7 @@
 [[main]]
   name = "Registry"
   pageRef= "Registry"
-  parent = "RSVP"
-  weight = 20
+  weight = 10
 
   [[main]]
     name = "Travel"
