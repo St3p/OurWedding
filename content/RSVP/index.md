@@ -14,8 +14,7 @@ We hope this message finds you well! As our wedding day in Nuevo Vallarta approa
 
 Your presence means a lot to us, and we've made the RSVP process quick and easy. Kindly let us know if you'll be part of our joyous day. We're also adding a personal touch to the celebration – feel free to request a song so you can shake that ass.
 
-<h3>Please note that this event will be adults-only, so plan for an evening of fun and celebration just for the grown-ups. </h3>
-<br></br>
+**Please note that this event will be adults-only, so plan for an evening of fun and celebration just for the grown-ups.**
 
   <form action="https://getform.io/f/bgdyjmja" method="POST">
   <label for="name">Full Name:</label>
@@ -37,7 +36,7 @@ Your presence means a lot to us, and we've made the RSVP process quick and easy.
   <label for="songRequests">Song Requests:</label>
   <input type="text" name="songRequests">
 
-  <buttonRSVP type="submit">RSVP</button>
+  <button type="submit">RSVP</button>
 
 </form>
 
@@ -72,7 +71,7 @@ Your presence means a lot to us, and we've made the RSVP process quick and easy.
     height: 100px;
   }
 
-  buttonRSVP {
+  button {
     background-color: #F18D32;
     color: #F18D32;
     padding: 10px 15px;
@@ -82,7 +81,7 @@ Your presence means a lot to us, and we've made the RSVP process quick and easy.
     font-size: 16px;
   }
 
-  buttonRSVP:hover {
+  button:hover {
     background-color: #F18D32;
     color: #ffffff;
   }
