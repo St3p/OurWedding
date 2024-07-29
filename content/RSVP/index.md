@@ -16,7 +16,7 @@ Your presence means a lot to us, and we've made the RSVP process quick and easy.
 
 **Please note that this event will be adults-only, so plan for an evening of fun and celebration just for the grown-ups.**
 
-<form  action="https://formspree.io/f/xeojanyk"method="POST">
+<form  action="https://formspree.io/f/movadako"method="POST">
 <label for="name">Full Name:</label>
 <input type="text" name="name" required>
 
@@ -36,7 +36,7 @@ Your presence means a lot to us, and we've made the RSVP process quick and easy.
 <select name="Menu" required>
 
   <option value="option 1">Option 1</option>
-  <option value="option 2">option 2</option>
+  <option value="option 2">Option 2</option>
 </select>
 
 <label for="songRequests">Song Requests:</label>
