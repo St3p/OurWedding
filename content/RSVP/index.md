@@ -16,28 +16,34 @@ Your presence means a lot to us, and we've made the RSVP process quick and easy.
 
 **Please note that this event will be adults-only, so plan for an evening of fun and celebration just for the grown-ups.**
 
-  <form action="https://getform.io/f/bgdyjmja" method="POST">
-  <label for="name">Full Name:</label>
-  <input type="text" name="name" required>
+<form  action="https://formspree.io/f/xeojanyk"method="POST">
+<label for="name">Full Name:</label>
+<input type="text" name="name" required>
 
-  <label for="email">Email Address:</label>
-  <input type="email" name="email" required>
+<label for="email">Email Address:</label>
+<input type="email" name="email" required>
 
-  <label for="attendance">Will you attend?</label>
-  <select name="attendance" required>
-    <option value="yes">Yes, I will attend</option>
-    <option value="no">No, I am unable to attend</option>
-    <option value="maybe">Maybe, I'm not sure yet</option>
-  </select>
+<label for="attendance">Will you attend?</label>
+<select name="attendance" required>
+  <option value="yes">Yes, I will attend</option>
+  <option value="no">No, I am unable to attend</option>
+  <option value="maybe">Maybe, I'm not sure yet</option>
+</select>
 
-  <label for="meal">Dietary Restrictions:</label>
-  <input type="text" name="Restrictions">
+<label for="meal">Dietary Restrictions:</label>
+<input type="text" name="Restrictions">
 
-  <label for="songRequests">Song Requests:</label>
-  <input type="text" name="songRequests">
+<label for="Menu">Please select a menu option for the big day!</label>
+<select name="Menu" required>
 
-  <button type="submit">RSVP</button>
+  <option value="option 1">Option 1</option>
+  <option value="option 2">option 2</option>
+</select>
 
+<label for="songRequests">Song Requests:</label>
+<input type="text" name="songRequests">
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
 </form>
 
 <style>
@@ -71,18 +77,7 @@ Your presence means a lot to us, and we've made the RSVP process quick and easy.
     height: 100px;
   }
 
-  button {
-    background-color: #F18D32;
-    color: #F18D32;
-    padding: 10px 15px;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    font-size: 16px;
-  }
-
   button:hover {
-    background-color: #F18D32;
-    color: #ffffff;
+    color: #F18D32;
   }
 </style>
