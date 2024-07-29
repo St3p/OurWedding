@@ -175,6 +175,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.derek-step.blog/menu/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.derek-step.blog/rsvp/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

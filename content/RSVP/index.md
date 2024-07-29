@@ -32,7 +32,7 @@ Your presence means a lot to us, and we've made the RSVP process quick and easy.
 <label for="meal">Dietary Restrictions:</label>
 <input type="text" name="Restrictions">
 
-<label for="Menu">Please select a menu option for the big day!</label>
+<label for="Menu">Please select a ***[menu](https://derek-step.blog/menu/)*** option for the big day!</label>
 <select name="Menu" required>
 
   <option value="option 1">Option 1</option>
