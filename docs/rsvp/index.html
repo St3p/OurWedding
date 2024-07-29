@@ -100,7 +100,7 @@
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "137"
+    "wordCount": "150"
   }]
   </script>
 
@@ -722,22 +722,28 @@
 <p>We hope this message finds you well! As our wedding day in Nuevo Vallarta approaches, we&rsquo;re eager to know if you&rsquo;ll be able to join us for this special celebration.</p>
 <p>Your presence means a lot to us, and we&rsquo;ve made the RSVP process quick and easy. Kindly let us know if you&rsquo;ll be part of our joyous day. We&rsquo;re also adding a personal touch to the celebration – feel free to request a song so you can shake that ass.</p>
 <p><strong>Please note that this event will be adults-only, so plan for an evening of fun and celebration just for the grown-ups.</strong></p>
-  <form action="https://getform.io/f/bgdyjmja" method="POST">
-  <label for="name">Full Name:</label>
-  <input type="text" name="name" required>
+<form  action="https://formspree.io/f/xeojanyk"method="POST">
+<label for="name">Full Name:</label>
+<input type="text" name="name" required>
 <p><label for="email">Email Address:</label>
 <input type="email" name="email" required></p>
 <p><label for="attendance">Will you attend?</label>
-<select name="attendance" required>
-<option value="yes">Yes, I will attend</option>
-<option value="no">No, I am unable to attend</option>
-<option value="maybe">Maybe, I&rsquo;m not sure yet</option>
-</select></p>
+<select name="attendance" required></p>
+  <option value="yes">Yes, I will attend</option>
+  <option value="no">No, I am unable to attend</option>
+  <option value="maybe">Maybe, I'm not sure yet</option>
+</select>
 <p><label for="meal">Dietary Restrictions:</label>
 <input type="text" name="Restrictions"></p>
+<p><label for="Menu">Please select a menu option for the big day!</label>
+<select name="Menu" required></p>
+  <option value="option 1">Option 1</option>
+  <option value="option 2">option 2</option>
+</select>
 <p><label for="songRequests">Song Requests:</label>
 <input type="text" name="songRequests"></p>
-<p><button type="submit">RSVP</button></p>
+  <!-- your other form fields go here -->
+<p><button type="submit">Send</button></p>
 </form>
 <style>
   form {
@@ -770,19 +776,8 @@
     height: 100px;
   }
 
-  button {
-    background-color: #F18D32;
-    color: #F18D32;
-    padding: 10px 15px;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    font-size: 16px;
-  }
-
   button:hover {
-    background-color: #F18D32;
-    color: #ffffff;
+    color: #F18D32;
   }
 </style>
 
