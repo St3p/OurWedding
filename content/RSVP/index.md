@@ -27,7 +27,6 @@ Your presence means a lot to us, and we've made the RSVP process quick and easy.
 <select name="attendance" required>
   <option value="yes">Yes, I will attend</option>
   <option value="no">No, I am unable to attend</option>
-  <option value="maybe">Maybe, I'm not sure yet</option>
 </select>
 
 <label for="meal">Dietary Restrictions:</label>
